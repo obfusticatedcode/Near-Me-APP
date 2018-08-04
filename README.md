@@ -20,6 +20,7 @@ This app uses such a directive called leaflet which can be found here:
 4.  DevServer is span and you should navigate to your localhost.
 
 <img src="./documentation/img/near-me-app.png" width="100%" height="100%">
+<img src="./documentation/img/near-me-with-more-markers.png" width="100%" height="100%">
 
 ### Technologies Used
 
