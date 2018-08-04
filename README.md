@@ -8,6 +8,8 @@
 
 4.  DevServer is span and you should navigate to your localhost.
 
+<img src="./documentation/img/near-me-app.png" width="100%" height="600px">
+
 ### Technologies Used
 
 - Angular 1.5x
