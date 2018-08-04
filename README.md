@@ -2,6 +2,15 @@
 
 > https://www.codecademy.com/courses/learn-angularjs/projects/angularjs_nearme-1
 
+### Summary
+
+The idea was to use external directives written and shared other devs within the app.
+This app uses such a directive called leaflet which can be found here:
+
+> http://tombatossals.github.io/angular-leaflet-directive/#!/
+
+> https://leafletjs.com/
+
 ## How to run :
 
 1.  clone the repo
@@ -10,7 +19,7 @@
 
 4.  DevServer is span and you should navigate to your localhost.
 
-<img src="./documentation/img/near-me-app.png" width="100%" height="600px">
+<img src="./documentation/img/near-me-app.png" width="100%" height="100%">
 
 ### Technologies Used
 
