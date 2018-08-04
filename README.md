@@ -1,5 +1,7 @@
 # [Near Me App From codeacademy]('https://www.codecademy.com/courses/learn-angularjs/projects/angularjs_nearme-1')
 
+> https://www.codecademy.com/courses/learn-angularjs/projects/angularjs_nearme-1
+
 ## How to run :
 
 1.  clone the repo
